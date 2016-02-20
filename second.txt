@@ -1,2 +1,1 @@
-this is the second file
-changes to second
+File 2 is changed
